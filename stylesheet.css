@@ -1,0 +1,54 @@
+body {
+    background-image: url(IMG_1328.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.center-header {
+    text-align: center;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    margin-top: 2em;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-right: auto;
+}
+
+.center-pic {
+    margin-top: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+
+.html-list {
+    margin-top: 2em;
+    margin-inside: auto;
+    width: 100%;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: outside;
+}
+
+.center-list {
+    width: 100%;
+    list-style-position: auto;
+    text-align: center;
+}
+
+.img-dogs {
+    margin-top: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
