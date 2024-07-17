@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="708d93ca-6c29-4d75-8eb7-17d9be0fda74" name="about-ashley" url="https://https://ddc-web-student.cnm.edu/~storres133/about-ashley/">
+        <fileTransfer rootFolder="/home/storres133/public_html/about-ashley/" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="96a64191-960f-4065-b193-71399b4e76fd" sshConfig="storres133@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
